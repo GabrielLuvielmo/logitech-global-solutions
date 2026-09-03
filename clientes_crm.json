@@ -1,0 +1,198 @@
+[
+  {
+    "cliente_id": "CLI001",
+    "nome_completo": "João Silva Santos",
+    "documento_cpf_cnpj": "12345678901",
+    "regiao_estado": "SP",
+    "categoria_conta": "Premium"
+  },
+  {
+    "cliente_id": "CLI002",
+    "nome": "Maria OliveirÃ© Costa",
+    "doc_cpf": "123.456.789-01",
+    "estado": "RJ",
+    "tipo_conta": "Standard"
+  },
+  {
+    "cliente_id": "CLI003",
+    "nome_completo": "CarloS Pereira Lopes",
+    "documento_cpf_cnpj": "23456789012",
+    "regiao_estado": "MG",
+    "categoria_conta": "Enterprise"
+  },
+  {
+    "cliente_id": "CLI004",
+    "nome_completo": "Ana Bnarbosa Silva",
+    "documento_cpf_cnpj": "234.567.890-12",
+    "regiao_estado": "BA",
+    "categoria_conta": "Premium"
+  },
+  {
+    "cliente_id": "CLI005",
+    "nome_completo": "PedrO Martins FÃ©lix",
+    "doc": "34567890123",
+    "state": "RS",
+    "account_type": "Standard"
+  },
+  {
+    "cliente_id": "CLI006",
+    "nome_completo": "Fernanda Rocha Costa",
+    "documento_cpf_cnpj": "345.678.901-23",
+    "regiao_estado": "PR",
+    "categoria_conta": "Basic"
+  },
+  {
+    "cliente_id": "CLI007",
+    "nome_completo": "LucÃ¡s Gomes NovÃ¡k",
+    "documento_cpf_cnpj": "45678901234",
+    "regiao_estado": "SC",
+    "categoria_conta": "Premium"
+  },
+  {
+    "cliente_id": "CLI008",
+    "nome_completo": "Camila Santos Oliveira",
+    "documento_cpf_cnpj": "456.789.012-34",
+    "regiao_estado": "SP",
+    "categoria_conta": "Enterprise"
+  },
+  {
+    "cliente_id": "CLI009",
+    "nome_completo": "Rafael SÃ³ Ferreira",
+    "documento_cpf_cnpj": "56789012345",
+    "region": "RJ",
+    "categoria_conta": "Standard"
+  },
+  {
+    "cliente_id": "CLI010",
+    "nome_completo": "Isabel Mendes DuartÃ©",
+    "documento_cpf_cnpj": "567.890.123-45",
+    "regiao_estado": "MG",
+    "account_category": "Premium"
+  },
+  {
+    "cliente_id": "CLI011",
+    "nome_completo": "Gustavo Teixeira Lima",
+    "documento_cpf_cnpj": "67890123456",
+    "regiao_estado": "BA",
+    "categoria_conta": "Basic"
+  },
+  {
+    "cliente_id": "CLI012",
+    "nome_completo": "Juliana CostÃ¡ Nascimento",
+    "documento_cpf_cnpj": "678.901.234-56",
+    "regiao_estado": "RS",
+    "categoria_conta": "Standard"
+  },
+  {
+    "cliente_id": "CLI013",
+    "nome_completo": "Thiago Alves RibeirÃ£o",
+    "documento_cpf_cnpj": "78901234567",
+    "state_region": "PR",
+    "categoria_conta": "Enterprise"
+  },
+  {
+    "cliente_id": "CLI014",
+    "nome_completo": "Patricia Souza MÃ¡rcio",
+    "documento_cpf_cnpj": "789.012.345-67",
+    "regiao_estado": "SC",
+    "categoria_conta": "Premium"
+  },
+  {
+    "cliente_id": "CLI015",
+    "nome_completo": "Wagner CordÃ£o Silva",
+    "documento_cpf_cnpj": "89012345678",
+    "regiao_estado": "SP",
+    "category_account": "Basic"
+  },
+  {
+    "cliente_id": "CLI016",
+    "nome_completo": "Beatriz FiguerÃ³a Oliveira",
+    "documento_cpf_cnpj": "890.123.456-78",
+    "regiao_estado": "RJ",
+    "categoria_conta": "Standard"
+  },
+  {
+    "cliente_id": "CLI017",
+    "nome_completo": "Marcelo BÃ¡ez Torres",
+    "documento_cpf_cnpj": "90123456789",
+    "regiao_estado": "MG",
+    "categoria_conta": "Enterprise"
+  },
+  {
+    "cliente_id": "CLI018",
+    "nome_completo": "Vanessa Nascimento Cruz",
+    "documento_cpf_cnpj": "901.234.567-89",
+    "estado": "BA",
+    "categoria_conta": "Premium"
+  },
+  {
+    "cliente_id": "CLI019",
+    "nome_completo": "Roberto CÃ¢mara Speroni",
+    "documento_cpf_cnpj": "01234567890",
+    "regiao_estado": "RS",
+    "category_type": "Basic"
+  },
+  {
+    "cliente_id": "CLI020",
+    "nome_completo": "Simone Araújo Marques",
+    "documento_cpf_cnpj": "012.345.678-90",
+    "regiao_estado": "PR",
+    "categoria_conta": "Standard"
+  },
+  {
+    "cliente_id": "CLI021",
+    "nome_completo": "Henrique MÃ¤us Xavier",
+    "documento_cpf_cnpj": "12345678901",
+    "regiao_estado": "SC",
+    "categoria_conta": "Enterprise"
+  },
+  {
+    "cliente_id": "CLI022",
+    "nome_completo": "Renata LopeZ Cassano",
+    "documento_cpf_cnpj": "123.456.789-01",
+    "regiao": "SP",
+    "categoria_conta": "Premium"
+  },
+  {
+    "cliente_id": "CLI023",
+    "nome_completo": "Fabio Morais SantÃ©s",
+    "documento_cpf_cnpj": "23456789012",
+    "regiao_estado": "RJ",
+    "type_account": "Basic"
+  },
+  {
+    "cliente_id": "CLI024",
+    "nome_completo": "Adriana MÜller Rossi",
+    "documento_cpf_cnpj": "234.567.890-12",
+    "regiao_estado": "MG",
+    "categoria_conta": "Standard"
+  },
+  {
+    "cliente_id": "CLI025",
+    "nome_completo": "Cristian NovÃ¡es Silva",
+    "documento_cpf_cnpj": "34567890123",
+    "estado_regiao": "BA",
+    "categoria_conta": "Enterprise"
+  },
+  {
+    "cliente_id": "CLI026",
+    "nome_completo": "Leticia Campos SÃ¡nchez",
+    "documento_cpf_cnpj": "345.678.901-23",
+    "regiao_estado": "RS",
+    "categoria_conta": "Premium"
+  },
+  {
+    "cliente_id": "CLI027",
+    "nome_completo": "Daniel FrancÃªs Tavares",
+    "documento_cpf_cnpj": "45678901234",
+    "regiao_estado": "PR",
+    "account_type": "Basic"
+  },
+  {
+    "cliente_id": "CLI028",
+    "nome_completo": "Veronica HenrÃ­quez MÃªda",
+    "documento_cpf_cnpj": "456.789.012-34",
+    "regiao_estado": "SC",
+    "categoria_conta": "Standard"
+  }
+]
